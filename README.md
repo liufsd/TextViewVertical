@@ -12,3 +12,6 @@ Usage
         android:background="@null" 
         textSize="60"/>
         //note:you can set text draw start position(LEFT/RIGHT)
+About library
+============
+Thanks for http://www.eoeandroid.com/thread-157999-1-1.html
