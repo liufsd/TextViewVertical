@@ -6,7 +6,7 @@ Simple example
 <img src="https://github.com/79144876/TextViewVertical/blob/master/device-screenshot.png"/>
 Usage
 ============
-        <com.eusoft.TextViewVertical android:id="@+id/tv"
+      <com.sk.view.TextViewVertical android:id="@+id/tv"
         android:layout_width="wrap_content"
         android:layout_height="fill_parent"
         android:background="@null" 
